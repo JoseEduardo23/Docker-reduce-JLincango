@@ -1,0 +1,99 @@
+Los estudiantes aprenden algoritmos en clase
+La clase de computacion distribuye conocimientos fundamentales
+Programar es una habilidad clave en el siglo veintiuno
+La palabra datos se repite en muchos contextos
+Procesar datos con rapidez es un desafio moderno
+MapReduce permite dividir tareas entre nodos
+Cada nodo aplica una funcion map sobre sus datos
+Luego reduce combina los resultados intermedios
+Contar palabras es el ejemplo clasico de MapReduce
+La eficiencia depende del sistema de archivos
+Un sistema escalable responde a cargas variables
+La paralelizacion mejora el tiempo de ejecucion
+Estudiantes usan Python para simular MapReduce
+Java tambien es una opcion muy usada en Hadoop
+El modelo MapReduce divide y conquista
+Distribuir tareas es util en grandes volumenes
+Los volumenes de datos crecen cada dia
+Datos estructurados y no estructurados conviven en sistemas reales
+Una funcion map recibe bloques de texto
+Cada bloque puede contener muchas lineas
+Las palabras se transforman en pares clave valor
+La fase reduce agrupa por clave y resume
+Los resultados pueden usarse en analisis posteriores
+Algoritmos distribuidos requieren sincronizacion efectiva
+La red interna conecta los nodos en el entorno
+El sistema HDFS almacena los datos de entrada
+La unidad de entrada se parte en bloques
+Cada bloque es procesado de manera independiente
+El texto debe limpiarse antes de mapear
+Eliminar puntuacion y normalizar mejora los resultados
+Los signos pueden interferir en el conteo de palabras
+La mayuscula y la minuscula deben tratarse igual
+MapReduce es ideal para tareas repetitivas y paralelas
+La fase reduce puede sumar contar o combinar
+El analisis de logs es otra aplicacion tipica
+La infraestructura de datos define la velocidad
+Los estudiantes aplican teoria en ejemplos simples
+Se crean scripts para dividir entrada en bloques
+Cada script puede automatizar la fase Map
+La simulacion ayuda a entender el modelo
+Un entorno distribuido requiere coordinacion
+Los archivos se cargan en la memoria para procesarse
+La funcion split divide el archivo segun lineas
+El conteo de palabras revela patrones interesantes
+Los patrones ayudan a tomar decisiones informadas
+La practica fortalece el aprendizaje de algoritmos
+Distribuir carga entre equipos mejora la eficiencia
+Cada linea puede tener muchas palabras comunes
+Palabras como datos sistema y funcion se repiten mucho
+La repeticion permite probar la reduccion de claves
+Reducir no es eliminar sino condensar resultados
+Una clave puede tener muchos valores asociados
+Cada valor es aportado por una fase Map
+Luego la fase reduce actua sobre ese conjunto
+Se agrupa todo por claves iguales
+Se filtran claves irrelevantes en algunos casos
+El sistema puede ignorar palabras vacias
+Palabras como el la y de no son relevantes a veces
+La limpieza inicial mejora el conteo total
+Una buena limpieza aumenta la precision del analisis
+Las pruebas se realizan sobre varios bloques
+Cada bloque tiene contenido similar pero distinto
+Se compara el rendimiento por bloque
+Los estudiantes documentan sus resultados
+Los reportes incluyen graficas y tablas
+Se observa la frecuencia de palabras
+Las mas comunes suelen ser conceptos clave
+En computacion aparecen datos sistema nodo y funcion
+MapReduce transforma grandes problemas en pequeños procesos
+Se evalua la escalabilidad del modelo
+La cantidad de nodos influye en el rendimiento
+Los errores de sincronizacion afectan el resultado
+La cooperacion entre nodos debe ser constante
+El modelo funciona mejor cuando hay balance de carga
+Los estudiantes ajustan parametros en su simulacion
+El desafio es representar volumen real con ejemplos simples
+Se puede simular un dataset mas grande repitiendo frases
+La frase procesar datos aparece muchas veces en pruebas
+La codificacion debe ser UTF-8 para evitar problemas
+Los caracteres especiales se eliminan antes del conteo
+Se extraen palabras clave para la reduccion
+El resultado final muestra conteo por palabra
+El sistema puede exportar los resultados a archivo
+Se grafican los resultados para interpretar mejor
+La practica culmina con una reflexion sobre eficiencia
+Cada alumno presenta sus hallazgos al grupo
+El conocimiento se refuerza al compartir conclusiones
+La metodologia MapReduce puede aplicarse a muchos campos
+Se usa en buscadores redes sociales y ciencia de datos
+El modelo es una base para procesamiento masivo
+Entenderlo permite resolver problemas modernos
+La programacion distribuida es una herramienta poderosa
+Estudiantes motivados aprenden mas rapido
+El conteo de palabras es solo el principio
+El siguiente paso puede incluir clasificacion o filtrado
+Cada proyecto aporta una nueva perspectiva
+Aprender MapReduce es una inversion valiosa
+La Escuela Politecnica Nacional forma profesionales de alto valor
+Un gusto haber compartido este semestre con ustedes
